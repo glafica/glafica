@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./Miconexion.gif" width="100%" />
+</div>
+
+# ¡Hola, soy glafica! 👋
+
 ## Hi there 👋
 
 <!--
