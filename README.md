@@ -1,84 +1,173 @@
-<div align="center">
-  <img src="./Lineas001.gif" width="700" />
-</div>
+![Data Banner](./Lineas001.gif)
 
-![Data Analytics Banner](./data-banner.gif)
+# 🌎 Language
 
-# 👋 Gus | Data Analyst & Process Optimization
-
-Transformo datos en sistemas de información accionables.  
-Mi enfoque combina análisis exploratorio, automatización y comprensión operativa del negocio.
-
-Trabajo con datos reales, procesos reales y problemas reales.
-## 🧩 Philosophy
-
-No me interesa solo analizar datos, 📊me interesa entender el sistema que los produce.
-El dato aislado informa, el sistema optimizado transforma. 🚀
-
+[🇪🇸 Español](#-español) | [🇺🇸 English](#-english) | [🇮🇹 Italiano](#-italiano)
 
 ---
 
-## 🧠 Core Approach
+# 🇪🇸 Español
 
-Mi flujo de trabajo suele seguir esta arquitectura:
+# 👋 Gus | Data Analyst · Analytics · Process Optimization
+
+Transformo datos en sistemas de información accionables.
+
+Combino análisis exploratorio, automatización y comprensión operativa del negocio para convertir información compleja en decisiones claras y medibles.
+
+Trabajo con datos reales, procesos reales y problemas reales.
+
+---
+
+## 🧩 Filosofía
+
+No me interesa solo analizar datos.  
+Me interesa entender el sistema que los produce.
+
+El dato aislado informa.  
+El sistema optimizado transforma.
+
+---
+
+## 🧠 Enfoque de Trabajo
+
+Arquitectura habitual de análisis:
 
 Data Source → Cleaning → Validation → Modeling → Analysis → Insight → Automation
 
-Me interesa especialmente:
+Me enfoco en:
 
-- Escalabilidad en análisis
+- Escalabilidad del análisis
 - Reducción de tareas manuales
 - Calidad y consistencia del dato
-- Optimización de procesos administrativos mediante tecnología
+- Optimización de procesos mediante tecnología
+- Claridad en la comunicación de resultados
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Técnico
 
-### 📊 Data Analysis
+### 📊 Análisis de Datos
 - Python (Pandas, NumPy)
 - Exploratory Data Analysis (EDA)
-- Data Cleaning & Validation
-- Statistical Thinking aplicado
+- Limpieza y validación de datos
+- Pensamiento estadístico aplicado
 
-### 🗄️ Data Management
+### 🗄️ Gestión de Datos
 - SQL
 - Microsoft Access
 - Modelado relacional
 - Normalización de datos
 
-### 📈 Visualization
+### 📈 Visualización & Reporting
 - Matplotlib
-- Reporting estructurado
-- Generación de insights ejecutivos
+- Storytelling con datos
+- Reportes estructurados para toma de decisiones
 
-### ⚙️ Automation
+### ⚙️ Automatización
+- Scripts en Python
+- Procesamiento batch
 - Automatización de consultas web
-- Procesamiento batch de archivos
 - Optimización de tareas repetitivas
 
-### 📑 Advanced Excel
-- Power Query
-- Tablas dinámicas complejas
-- Modelos de análisis estructurado
+---
+
+# 🇺🇸 English
+
+# 👋 Gus | Data Analyst · Analytics · Process Optimization
+
+I transform data into actionable information systems.
+
+My approach combines exploratory analysis, automation, and operational business understanding to turn complex information into measurable decisions.
+
+I work with real data, real processes, and real-world problems.
 
 ---
 
-## 🚀 Actualmente Profundizando
+## 🧩 Philosophy
 
-- Análisis estadístico más avanzado
-- Optimización de pipelines de datos pequeños y medianos
-- Mejores prácticas en estructuración de proyectos de análisis
-- Automatización end-to-end con Python
+I am not only interested in analyzing data.  
+I aim to understand the system that generates it.
+
+Isolated data informs.  
+Optimized systems transform.
 
 ---
 
-## 📂 Tipo de Proyectos que Desarrollo
+## 🧠 Core Approach
 
-- Automatización de descarga y procesamiento de datos públicos
-- Análisis exploratorio sobre datasets reales
-- Optimización de procesos administrativos con scripts
-- Reporting automatizado
+Typical analysis workflow:
+
+Data Source → Cleaning → Validation → Modeling → Analysis → Insight → Automation
+
+Focus areas:
+
+- Scalable analytics
+- Reducing manual workflows
+- Data quality & consistency
+- Process optimization through technology
+- Clear communication of insights
+
+---
+
+## 🛠️ Technical Stack
+
+- Python (Pandas, NumPy)
+- SQL
+- Microsoft Access
+- Data modeling & normalization
+- Matplotlib
+- Automation with Python
+- Advanced Excel (Power Query, Pivot Models)
+
+---
+
+# 🇮🇹 Italiano
+
+# 👋 Gus | Data Analyst · Analytics · Ottimizzazione dei Processi
+
+Trasformo i dati in sistemi informativi concreti e orientati alle decisioni.
+
+Il mio approccio unisce analisi esplorativa, automazione e comprensione operativa del business, con l'obiettivo di rendere informazioni complesse chiare e misurabili.
+
+Lavoro con dati reali, processi reali e problemi concreti.
+
+---
+
+## 🧩 Filosofia
+
+Non mi interessa solo analizzare i dati.  
+Mi interessa comprendere il sistema che li genera.
+
+Il dato isolato informa.  
+Il sistema ottimizzato trasforma.
+
+---
+
+## 🧠 Approccio
+
+Workflow tipico:
+
+Data Source → Cleaning → Validation → Modeling → Analysis → Insight → Automation
+
+Mi concentro su:
+
+- Scalabilità dell’analisi
+- Riduzione delle attività manuali
+- Qualità e coerenza del dato
+- Ottimizzazione dei processi tramite tecnologia
+- Chiarezza nella comunicazione dei risultati
+
+---
+
+## 🛠️ Competenze Tecniche
+
+- Python (Pandas, NumPy)
+- SQL
+- Microsoft Access
+- Modellazione relazionale
+- Matplotlib
+- Automazione con Python
+- Excel avanzato (Power Query, modelli pivot)
 
 ---
 
@@ -90,15 +179,14 @@ Me interesa especialmente:
 
 ---
 
-## 📫 Contacto
+## 📫 Contact / Contatto
 
-- 💼 LinkedIn: www.linkedin.com/in/gustavo-lafica
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-lafica
 - 📧 Email: tuemail@ejemplo.com
 
 ---
 
-> "Data is only valuable when it reduces uncertainty and improves decisions."
-
+⭐ Open to collaboration in analytics, automation and data-driven process optimization.
 
 
 # -----------------------------------------------------------------------------------------------------------------------
