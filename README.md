@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./Lineas01.gif" width="100%" />
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZoaWs3cXlpaHpsdXoyMXNxd2d0cHFjbnJ6bTBvNXZlYzVyeW42ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="600" align="center" />
 
 # ¡Hola, soy glafica! 👋
 
