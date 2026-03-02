@@ -92,7 +92,7 @@ Me interesa especialmente:
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/TU-USUARIO
+- 💼 LinkedIn: www.linkedin.com/in/gustavo-lafica
 - 📧 Email: tuemail@ejemplo.com
 
 ---
