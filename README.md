@@ -1,8 +1,8 @@
-![Data Banner](./Lineas001.gif)
+# 🌍 Language
 
-# 🌎 Language
-
-[🇪🇸 Español](#-español) | [🇺🇸 English](#-english) | [🇮🇹 Italiano](#-italiano)
+[![ES](https://img.shields.io/badge/ES-Spanish-0A66C2?style=for-the-badge)](#-español)
+[![EN](https://img.shields.io/badge/EN-English-1f6feb?style=for-the-badge)](#-english)
+[![IT](https://img.shields.io/badge/IT-Italian-009246?style=for-the-badge)](#-italiano)
 
 ---
 
