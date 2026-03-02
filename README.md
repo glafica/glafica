@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./MiConexion.gif" width="100%" />
+  <img src="./Lineas01.gif" width="100%" />
 </div>
 
 # ¡Hola, soy glafica! 👋
