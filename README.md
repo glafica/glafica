@@ -173,10 +173,17 @@ Mi concentro su:
 
 ## 📊 GitHub Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact">
+</picture>
 ---
 
 ## 📫 Contact / Contatto
