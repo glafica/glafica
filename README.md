@@ -189,7 +189,7 @@ Mi concentro su:
 ## 📫 Contact / Contatto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gustavo-lafica
-- 📧 Email: tuemail@ejemplo.com
+- 📧 Email: gldatalab@gmail.com
 
 ---
 
