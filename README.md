@@ -75,7 +75,7 @@ Me enfoco en:
 </picture>
 ---
 
-## 📫 Contact / Contatto
+## 📫 Contacto 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/gustavo-lafica
 - 📧 Email: gldatalab@gmail.com
