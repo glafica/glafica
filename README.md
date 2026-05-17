@@ -59,7 +59,8 @@ Me enfoco en:
 - Automatización de consultas web
 - Optimización de tareas repetitivas
 
----
+------------------------------------------------------------------------------------------------------------------------------
+
 ## 📊 GitHub Metrics
 
 <picture>
@@ -73,17 +74,9 @@ Me enfoco en:
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=glafica&layout=compact&theme=default">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glafica&layout=compact">
 </picture>
----
 
-## 📊 GitHub Metrics 2
 
-## 📊 GitHub Metrics
-
-### 📈 Estadísticas Generales
-![Gus GitHub Stats](https://github-readme-stats.vercel.app/api?username=gldatalab&show_icons=true&theme=dark)
-
-### 🧠 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gldatalab&layout=compact&theme=dark)
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
