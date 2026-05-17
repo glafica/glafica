@@ -77,14 +77,13 @@ Me enfoco en:
 
 ## 📊 GitHub Metrics 2
 
-![Metrics](https://raw.githubusercontent.com/gldatalab/gldatalab/main/github-metrics.svg)
+## 📊 GitHub Metrics
 
 ### 📈 Estadísticas Generales
 ![Gus GitHub Stats](https://github-readme-stats.vercel.app/api?username=gldatalab&show_icons=true&theme=dark)
 
 ### 🧠 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gldatalab&layout=compact&theme=dark)
-
 
 
 
