@@ -84,6 +84,4 @@ Me enfoco en:
 
 ⭐ Abierto a la colaboración en análisis, automatización y optimización de procesos basados ​​en datos.
 
-⭐ Open to collaboration in analytics, automation and data-driven process optimization.
-
-   Podés dejar una estrella ⭐ para apoyar el proyecto.
+   Podés dejar una estrella ⭐ para apoyar mi proyecto.
