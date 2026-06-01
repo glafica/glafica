@@ -88,6 +88,6 @@ Me enfoco en:
 
 ---
 
-⭐ Abierto a la colaboración en análisis, automatización y optimización de procesos basados ​​en datos.
+👉 Abierto a la colaboración en análisis, automatización y optimización de procesos basados ​​en datos.
 
    Podés dejar una estrella ⭐ para apoyar mi proyecto.
