@@ -56,6 +56,7 @@ Me enfoco en:
 
 ### ⚙️ Automatización
 - Scripts en Python
+- Scripts en BVA
 - Procesamiento batch
 - Automatización de consultas web
 - Optimización de tareas repetitivas
